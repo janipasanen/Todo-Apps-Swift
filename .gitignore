@@ -1,0 +1,8 @@
+api/Packages
+api/.build
+api/xcuserdata
+api/*.xcodeproj
+api/DerivedData/
+api/.DS_Store
+api/db.sqlite
+api/.swiftpm
